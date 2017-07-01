@@ -1,0 +1,15 @@
+#edit-input{
+    width: 25%;
+}
+button{
+    margin-top: 15px;
+}
+
+#button-cancel{
+    border: none;
+    background-color: #f3f3f3;
+    color: #2e6da4;
+}
+
+#footer{
+    background-color: #f3f3f3;
